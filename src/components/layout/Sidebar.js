@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { FaChevronDown, FaInbox, FaRegCalendarAlt, FaRegCalendar, FaCalendarAlt } from 'react-icons/fa'
+import { FaChevronDown, FaInbox, FaRegCalendar, FaCalendarAlt } from 'react-icons/fa'
 import { useSelectedProjectValue } from '../../context'
 import { Projects } from '../Projects'
 import { AddProject } from '../AddProject'
